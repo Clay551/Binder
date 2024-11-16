@@ -30,8 +30,14 @@
 - مخفی‌سازی پیشرفته پروسه
 - ویژگی‌های ضد آنالیز
 
-![بعد](https://github.com/user-attachments/assets/5ad84aa7-604a-46fc-88c3-98ddc37b9f5e)
 
+قبل بایند :‌![قبل](https://github.com/user-attachments/assets/8f7ccbcc-b167-42f4-947d-cc6a53d1cf9c)
+
+
+بعد بایند :‌![بعد](https://github.com/user-attachments/assets/43a33ee4-5a17-4252-9a55-66f7b0baf928)
+
+
+![Screenshot](https://github.com/user-attachments/assets/a3cbe7a5-873d-4416-8b23-3a2ddafd28cd)
 
 
 
