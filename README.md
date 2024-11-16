@@ -1,58 +1,45 @@
-# Ultimate Cross Platform Binder
+# ابزار پیشرفته Cross Platform Binder
 
-A powerful and advanced cross-platform file binding tool with extensive stealth capabilities and security features.
+یک ابزار قدرتمند برای ترکیب فایل‌ها با قابلیت‌های پیشرفته امنیتی و مخفی‌سازی
 
-## Features
+## ویژگی‌های اصلی
 
-### Core Functionality
-- Cross-platform support (Windows & Linux)
-- File encryption using Fernet cryptography
-- Multiple output formats (Python script, Windows EXE, Linux Binary)
-- Modern dark-themed GUI interface
+### قابلیت‌های کلیدی
+- پشتیبانی از چند پلتفرم (ویندوز و لینوکس)
+- رمزنگاری فایل با استفاده از Fernet
+- خروجی‌های متنوع (اسکریپت پایتون، فایل اجرایی ویندوز، باینری لینوکس)
+- رابط کاربری مدرن با تم تاریک
 
-### Stealth Options
-- File hiding capabilities
-- Process concealment
-- Startup persistence
-- System persistence mechanisms
-- Privilege escalation (UAC Bypass/Root Escalation)
-- Anti-VM detection
-- Anti-debugging protection
-- Self-destruction capability
+### گزینه‌های مخفی‌سازی
+- قابلیت مخفی کردن فایل
+- پنهان‌سازی پروسه
+- اجرای خودکار در استارت‌آپ
+- مکانیزم‌های ماندگاری در سیستم
+- ارتقای سطح دسترسی (UAC Bypass/Root)
+- تشخیص ماشین مجازی
+- محافظت در برابر دیباگ
+- قابلیت خود-تخریبی
 
-### Advanced Features
-- Customizable execution delay
-- Fake error message generation
-- Custom output naming
-- Comprehensive error handling
+### ویژگی‌های پیشرفته
+- تاخیر اجرای قابل تنظیم
+- تولید پیام خطای ساختگی
+- نامگذاری دلخواه خروجی
+- مدیریت خطای جامع
 
-### Security Implementations
-- Strong encryption algorithms
-- Multiple persistence methods
-- Advanced process hiding
-- Sophisticated anti-analysis features
+### پیاده‌سازی‌های امنیتی
+- الگوریتم‌های رمزنگاری قوی
+- روش‌های متعدد ماندگاری
+- مخفی‌سازی پیشرفته پروسه
+- ویژگی‌های ضد آنالیز
 
-## Technical Details
-- Built with Python 3.x
-- Uses Tkinter for GUI
-- Implements Fernet encryption
-- PyInstaller integration for binary creation
+## جزئیات فنی
+- نوشته شده با Python 3.x
+- استفاده از Tkinter برای رابط کاربری
+- پیاده‌سازی رمزنگاری Fernet
+- یکپارچه‌سازی با PyInstaller برای ساخت فایل اجرایی
 
-## Requirements
-- Python 3.x
-- cryptography
-- pyinstaller
-- tkinter (usually included with Python)
-
-## Usage
-1. Select input file
-2. Configure stealth options
-3. Set advanced parameters
-4. Choose output format
-5. Generate bound file
-
-## Note
-This tool is designed for educational and research purposes only. Users are responsible for how they use this software.
-
-## Disclaimer
-The author is not responsible for any misuse of this software. Use responsibly and only on systems you own or have permission to test.
+## نیازمندی‌ها
+```python
+pip install cryptography
+pip install pyinstaller
+pip install tkinter
